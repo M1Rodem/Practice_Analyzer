@@ -20,7 +20,7 @@ namespace Practice_Analyzer
     {
         public sealed override ImmutableArray<string> FixableDiagnosticIds
         {
-            get { return ImmutableArray.Create(Practice_AnalyzerAnalyzer.DiagnosticId); }
+            get { return ImmutableArray.Create(Practice_AnalyzerAnalyzer.BreakDebuggerId); }
         }
 
         public sealed override FixAllProvider GetFixAllProvider()

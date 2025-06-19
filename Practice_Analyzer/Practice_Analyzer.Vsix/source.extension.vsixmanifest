@@ -13,7 +13,7 @@
   </Dependencies>
   <Assets>
     <Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="Practice_Analyzer" Path="|Practice_Analyzer|"/>
-    <Asset Type="Microsoft.VisualStudio.Analyzer" d:Source="Project" d:ProjectName="Practice_Analyzer" Path="|Practice_Analyzer|"/>
+    <Asset Type="Microsoft.VisualStudio.Analyzer" d:Source="Project" d:ProjectName="Practice_Analyzer" Path="|Practice_Analyzer|" AssemblyName="Practice_Analyzer.dll"/>
     <Asset Type="Microsoft.VisualStudio.MefComponent" d:Source="Project" d:ProjectName="Practice_Analyzer.CodeFixes" Path="|Practice_Analyzer.CodeFixes|"/>
     <Asset Type="Microsoft.VisualStudio.Analyzer" d:Source="Project" d:ProjectName="Practice_Analyzer.CodeFixes" Path="|Practice_Analyzer.CodeFixes|"/>
   </Assets>
